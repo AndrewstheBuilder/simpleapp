@@ -1,38 +1,43 @@
-.App {
-  text-align: center;
+/*default margin and padding for entire document*/
+* {
+  margin: 0;
+  padding: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+body{
+  background-color: black;
   color: white;
+  font-size: 22px;
 }
 
-.App-link {
-  color: #61dafb;
+/*the text "hi i am andrews peter"*/
+.header {
+  display: inline-block;
+  font-size: 54px;
+  font-weight: bold;
+  padding-top: 15%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+/*the github link*/
+a {
+  text-decoration: none;
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 16px;
+  letter-spacing: 5px;
+}
+
+a:hover {
+  color: grey;
+}
+
+/*adjust text for screen sizes smaller than 450px*/
+@media screen and (max-width: 450px) {
+  .header {
+    padding-top: 50%;
   }
-  to {
-    transform: rotate(360deg);
+
+  .body-text {
+    font-size: 28px;
   }
 }
