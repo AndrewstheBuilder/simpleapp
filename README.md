@@ -1,5 +1,6 @@
 # Simple Web App: made using React
 
+![image](https://user-images.githubusercontent.com/51387040/90164363-4eb2d680-dd65-11ea-87ac-6f2bee6bea2e.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
