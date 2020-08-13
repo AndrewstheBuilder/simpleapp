@@ -6,7 +6,7 @@
     1. Download this project
     2. Run Command Prompt
     3. cd into the directory where this project is.
-    4. run the command `npm start`
+    4. Then run the command `npm start`
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
