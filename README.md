@@ -2,6 +2,11 @@
 
 ![image](https://user-images.githubusercontent.com/51387040/90164363-4eb2d680-dd65-11ea-87ac-6f2bee6bea2e.png)
 
+## How to run?
+    1. Download this project
+    2. Run Command Prompt
+    3. cd into the directory where this project is.
+    4. run the command `npm start`
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
