@@ -5,9 +5,10 @@ https://objective-goldstine-4df5d9.netlify.app/
 
 ## How to run?
 Click the link: https://objective-goldstine-4df5d9.netlify.app/ if this doesn't work follow below instructions. 
+
     1. Download this project
     2. Run Command Prompt
-    3. cd into the directory where this project is.
+    3. In Command Prompt cd into the directory where this project is.
     4. Then run the command `npm start`
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
