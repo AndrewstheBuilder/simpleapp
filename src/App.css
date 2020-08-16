@@ -30,16 +30,3 @@ a {
 a:hover {
   color: grey;
 }
-
-/*
-/*adjust text for screen sizes smaller than 450px*/
-@media screen and (max-width: 450px) {
-  .header {
-    padding-top: 50%;
-  }
-
-  .body-text {
-    font-size: 28px;
-  }
-}
-*/
