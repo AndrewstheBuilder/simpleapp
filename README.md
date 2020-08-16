@@ -4,6 +4,7 @@ https://objective-goldstine-4df5d9.netlify.app/
 ![image](https://user-images.githubusercontent.com/51387040/90164363-4eb2d680-dd65-11ea-87ac-6f2bee6bea2e.png)
 
 ## How to run?
+``Click the link: https://objective-goldstine-4df5d9.netlify.app/ if this doesn't work follow below instructions.`` 
     1. Download this project
     2. Run Command Prompt
     3. cd into the directory where this project is.
